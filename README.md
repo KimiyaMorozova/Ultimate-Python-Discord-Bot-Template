@@ -1,1 +1,1 @@
-# Ultimate-Discord-Bot-Template
+# Ultimate Python Discord Bot Template
