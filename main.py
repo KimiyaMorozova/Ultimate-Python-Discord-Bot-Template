@@ -17,7 +17,8 @@ bot.remove_command('help')                                                      
 #! Seperate cogs by a ","
 startup_extensions = [
     'cogs.system.Logger', 
-    'cogs.example_command_cog'
+    'cogs.example_command_cog',
+    'cogs.example_slashcommand_cog'
     ]
 
 ##Startup defs
